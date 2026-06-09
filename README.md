@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Mahanoor 👋
 
-<!--
-**mahanoornaeem2290/mahanoornaeem2290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate Frontend Web Developer who enjoys building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+My goal is to become an **Agentic AI Engineer**, creating intelligent AI systems that can reason, plan, and perform tasks autonomously.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+### Frontend Development
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+
+### Programming & Tools
+- Python
+- Git
+- GitHub
+
+## Projects
+- DNBC News Website
+- Emotion Copilot
+
+## Currently Learning
+- Advanced JavaScript
+- Python Development
+- Artificial Intelligence
+- Agentic AI Systems
+- Git & GitHub
+
+## Career Goals
+- Become an Agentic AI Engineer
+- Build AI-powered applications
+- Create intelligent autonomous systems
+- Contribute to innovative technology projects
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/mahanoor-naeem-45399a401
+
+Thanks for visiting my profile!
