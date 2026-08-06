@@ -7,12 +7,56 @@ My goal is to become an **Agentic AI Engineer**, creating intelligent AI systems
 
 ## 💻 Skills
 
-### Frontend Development
+## 🛠️ Skills
+
+### 💻 Programming Languages
 - HTML5
 - CSS3
-- Bootstrap
 - JavaScript
+- Python
+
+### 🎨 Frontend Development
+- Bootstrap 5
+- Responsive Web Design
+- UI/UX Design
 - jQuery
+
+### ⚙️ Backend & APIs
+- Python
+- FastAPI
+- REST APIs
+
+### 🤖 AI & Machine Learning
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- MediaPipe
+- Pandas
+- NumPy
+
+### 🗄️ Databases
+- MySQL
+- SQLite
+
+### 🧰 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- XAMPP
+- Laragon
+- Postman
+
+### 📚 Currently Learning
+- React.js
+- Node.js
+- Agentic AI
+- LangChain
+- OpenAI APIs
+- 
+## 🚀 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,fastapi,tensorflow,opencv,mysql,sqlite,git,github,vscode,postman" />
+</p>
 
 ### Programming & Tools
 - Python
@@ -22,7 +66,10 @@ My goal is to become an **Agentic AI Engineer**, creating intelligent AI systems
 ## Projects
 - DNBC News Website
 - Emotion Copilot
-
+- SpectraAI Full Advance Learning Platform
+- Docket Application
+- Expense Application
+  
 ## Currently Learning
 - Advanced JavaScript
 - Python Development
