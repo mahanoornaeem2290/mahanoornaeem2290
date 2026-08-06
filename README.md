@@ -52,11 +52,6 @@ My goal is to become an **Agentic AI Engineer**, creating intelligent AI systems
 - Agentic AI
 - LangChain
 - OpenAI APIs
-- 
-## 🚀 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,fastapi,tensorflow,opencv,mysql,sqlite,git,github,vscode,postman" />
-</p>
 
 ### Programming & Tools
 - Python
@@ -82,6 +77,14 @@ My goal is to become an **Agentic AI Engineer**, creating intelligent AI systems
 - Build AI-powered applications
 - Create intelligent autonomous systems
 - Contribute to innovative technology projects
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,fastapi,tensorflow,opencv,mysql,sqlite,git,github,vscode,postman" />
+</p>
+
+
 
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/mahanoor-naeem-45399a401
