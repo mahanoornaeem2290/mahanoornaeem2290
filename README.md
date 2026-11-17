@@ -65,9 +65,11 @@ My curiosity pulls me toward **Artificial Intelligence, Machine Learning and int
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,django,graphql,postman&perline=7" alt="backend" />
 
-### 🤖 AI, ML & Data
+<h3 align="center">🤖 AI, ML & Data</h3>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy,jupyter,streamlit&perline=8" alt="ai ml" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy,jupyter,streamlit&perline=8" alt="ai ml" />
+</p>
 
 ### 🗄️ Databases
 
@@ -176,22 +178,34 @@ My curiosity pulls me toward **Artificial Intelligence, Machine Learning and int
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=70&section=header" width="100%" alt="wave" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahanoornaeem2290&theme=tokyonight" alt="profile details" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahanoornaeem2290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanoornaeem2290&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=mahanoornaeem2290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanoornaeem2290&layout=donut&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=mahanoornaeem2290&theme=tokyonight&hide_border=true" alt="streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahanoornaeem2290&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahanoornaeem2290&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahanoornaeem2290&theme=tokyonight" alt="repos per language" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahanoornaeem2290&theme=tokyonight" alt="most commit language" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahanoornaeem2290&theme=tokyonight&utcOffset=5" alt="productive time" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahanoornaeem2290&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahanoornaeem2290&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahanoornaeem2290&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Graph&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%" alt="activity graph" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=70&section=header" width="100%" alt="wave" />
 
