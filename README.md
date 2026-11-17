@@ -1,22 +1,22 @@
 <div align="center">
 
-# MAHANOOR NAEEM
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:06b6d4&height=230&section=header&text=MAHANOOR%20NAEEM&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%20%26%20MACHINE%20LEARNING&descSize=17&descAlignY=60" alt="Mahanoor Naeem — Full-Stack Developer and AI enthusiast" width="100%" />
 
-### Full-Stack Developer · AI & Machine Learning Enthusiast
+### Building useful digital experiences with Web, AI & innovation
 
-Building thoughtful web experiences and exploring practical applications of intelligent technology.
+<a href="https://github.com/mahanoornaeem2290"><img src="https://img.shields.io/badge/GITHUB-@mahanoornaeem2290-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://new-portfolio-seven-umber.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Development;Applied+AI+%26+Machine+Learning;Building+useful%2C+user-focused+products" alt="Areas of focus" />
+<br />
 
-<a href="https://new-portfolio-seven-umber.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/mahanoornaeem2290"><img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<img src="https://komarev.com/ghpvc/?username=mahanoornaeem2290&label=PROFILE+VIEWS&color=0F172A&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mahanoornaeem2290&label=PROFILE+VIEWS&color=0f172a&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## 👋 Welcome to my profile
 
 I’m **Mahanoor**, a full-stack web developer interested in building reliable, accessible digital products and exploring how AI can make them more useful. I enjoy working across the stack—from responsive interfaces and APIs to data-driven and AI-powered features—and learning by turning ideas into working projects.
 
@@ -27,7 +27,7 @@ I’m **Mahanoor**, a full-stack web developer interested in building reliable, 
 
 ---
 
-## Technology
+## 🧰 Technology
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I’m **Mahanoor**, a full-stack web developer interested in building reliable, 
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
 | Project | Overview | Stack / Focus |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ I’m **Mahanoor**, a full-stack web developer interested in building reliable, 
 
 ---
 
-## GitHub at a Glance
+## 📊 GitHub at a Glance
 
 <div align="center">
 
@@ -78,7 +78,7 @@ I’m **Mahanoor**, a full-stack web developer interested in building reliable, 
 
 ---
 
-## What I’m Exploring
+## 🔭 What I’m Exploring
 
 - Building polished interfaces with React and modern JavaScript
 - Developing backend services and APIs with Node.js and Express
@@ -87,7 +87,7 @@ I’m **Mahanoor**, a full-stack web developer interested in building reliable, 
 
 ---
 
-## Let’s Connect
+## 🤝 Let’s Connect
 
 I’m always happy to connect with fellow developers, exchange ideas, and collaborate on meaningful projects.
 
